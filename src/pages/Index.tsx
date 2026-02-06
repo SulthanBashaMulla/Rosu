@@ -60,10 +60,10 @@ const Index = () => {
         >
           <div className="bg-transparent p-8">
             <p className="text-2xl md:text-3xl font-serif text-primary leading-relaxed">
-              "Bilkul aaisey Gulab ki tarah Ho aap,
+              "Bilkul aaisey Gulab ki tarah Ho aap 🌷🌺,
             </p>
             <p className="text-2xl md:text-3xl font-serif text-primary leading-relaxed mt-2">
-              aapki khamooshi may bhi chupi huyi hai khubsurti"
+              aapki khamooshi may bhi chupi huyi hai khubsurti laajawaab ♥️
             </p>
             <div className="mt-6 flex items-center justify-center gap-2">
               <span className="text-2xl">🌹</span>

@@ -26,7 +26,7 @@ const Index = () => {
             Happy Rose Day
           </h1>
           <p className="text-muted-foreground text-lg mt-2 italic">
-            A special surprise for You Saahiba 
+            A special surprise for You Habeeba
           </p>
         </div>
 
@@ -60,10 +60,10 @@ const Index = () => {
         >
           <div className="bg-transparent p-8">
             <p className="text-2xl md:text-3xl font-serif text-primary leading-relaxed">
-              "Chahey koi bhi situation ho,
+              "Bilkul aaisey Gulab ki tarah Ho aap,
             </p>
             <p className="text-2xl md:text-3xl font-serif text-primary leading-relaxed mt-2">
-              Hamesha aapkay saath Rahungaa "
+              aapki khamooshi may bhi chupi huyi hai khubsurti"
             </p>
             <div className="mt-6 flex items-center justify-center gap-2">
               <span className="text-2xl">🌹</span>

@@ -96,6 +96,13 @@ const Index = () => {
         >
           Made with love, just for you Samreen 💝
         </p>
+        
+        <p 
+          className="mt-8 text-muted-foreground text-sm opacity-0 animate-fade-in-up"
+          style={{ animationDelay: "1.4s" }}
+        >
+          By AshWak 😘
+        </p>
       </div>
     </div>
   );

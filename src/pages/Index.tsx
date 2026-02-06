@@ -101,7 +101,7 @@ const Index = () => {
           className="mt-8 text-muted-foreground text-sm opacity-0 animate-fade-in-up"
           style={{ animationDelay: "1.4s" }}
         >
-          By AshWak 😘
+          By AshWak 🩷
         </p>
       </div>
     </div>

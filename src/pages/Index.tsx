@@ -26,7 +26,7 @@ const Index = () => {
             Happy Rose Day
           </h1>
           <p className="text-muted-foreground text-lg mt-2 italic">
-            A special surprise for someone special
+            A special surprise for You Saahiba 
           </p>
         </div>
 
@@ -60,14 +60,14 @@ const Index = () => {
         >
           <div className="bg-transparent p-8">
             <p className="text-2xl md:text-3xl font-serif text-primary leading-relaxed">
-              "Every rose whispers your name,
+              "Chahey koi bhi situation ho,
             </p>
             <p className="text-2xl md:text-3xl font-serif text-primary leading-relaxed mt-2">
-              Every petal holds my love for you"
+              Hamesha aapkay saath Rahungaa "
             </p>
             <div className="mt-6 flex items-center justify-center gap-2">
               <span className="text-2xl">🌹</span>
-              <span className="text-muted-foreground italic">With all my love</span>
+              <span className="text-muted-foreground italic">Meray Cute say Baba jii 🧕</span>
               <span className="text-2xl">🌹</span>
             </div>
           </div>
@@ -94,7 +94,7 @@ const Index = () => {
           className="mt-8 text-muted-foreground text-sm opacity-0 animate-fade-in-up"
           style={{ animationDelay: "1.4s" }}
         >
-          Made with love, just for you 💝
+          Made with love, just for you Samreen 💝
         </p>
       </div>
     </div>
